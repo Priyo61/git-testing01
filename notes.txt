@@ -1,0 +1,21 @@
+-what is git?
+
+= free and open source version control system.
+
+-- readme.md== to store project information.
+
+-- commit == change
+
+-- to check version == git --version, git --help
+
+
+-- pwd--current working directory
+
+1 step to clone repo to our machine:--
+
+1- git clone <link> // use https link
+2- .git is hidden file
+3- git status--checking which file are add and which file are modify
+4- git add <name of file to add> -- / git add .(add all file files)
+5- git commit -m "put notes what you add or change"
+6-  git push origin main-- to upload local repo to hub repo

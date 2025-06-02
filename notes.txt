@@ -11,7 +11,7 @@
 
 -- pwd--current working directory
 
-1 step to clone repo to our machine:--
+step to clone repo to our machine:--
 
 1- git clone <link> // use https link
 2- .git is hidden file
